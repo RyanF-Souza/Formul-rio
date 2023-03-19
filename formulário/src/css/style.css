@@ -1,0 +1,67 @@
+body{
+    background: linear-gradient(to bottom,#f8ae43,#fc8d07);
+    height: 100vh;
+    width: 100vw;
+
+}
+.caixaDeFormularios{
+    width: 25rem;
+    height: 46rem;
+
+    border-radius: 20px;
+}
+#caixaDeFormularios2,#caixaDeFormularios3{
+    display: none;
+}
+.formularioBola{
+    font-size: 1.15rem;
+
+    width: 4.7rem;
+}
+.bola{
+    width: 1.8rem;
+    height: 1.8rem;
+    border-radius: 100%;
+    border: 2px solid black;
+}
+.linha{
+    width: 4.6rem;
+    height: 0.25rem;
+    background-color: black;
+}
+.formularios{
+    padding: 0 2rem;
+}
+.legendas{
+    font-size: 1.05rem;
+    padding: 5px 0;
+}
+.cpf{
+    font-size: 1.15rem;
+}
+.botao{
+    background-color: #f3c25b;
+    transition: .35s;
+
+    border-radius: 15px;
+}
+.botao:hover{
+    background-color: black;
+}
+
+/* ----------------------------------------------------------------------------------------------------- */
+
+.nomes2{
+    color: #fc9a1b;
+}
+.bolas2{
+    background-color: #f0af5a;
+    border-color: #f89615;
+}
+.botao2{
+    width: 9.6rem;
+    
+    margin-top: 4rem;
+}
+
+/* ------------------------------------------------------------------------------------------------ */
